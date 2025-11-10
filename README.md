@@ -10,6 +10,9 @@ To play, open the file in a coding program with the player.png in the same folde
 ### Controls
 
 Up = W or ↑
+
 Down = S or ↓
+
 Left = A or ←
+
 Right = D or →
